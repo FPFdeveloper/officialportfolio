@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'Automation software & A.I. implementations',
     info: "There is a fair amount of demand for bespoke automation scripts, the issue is most don't know it's possible to automate many office tasks. Furthermore there is huge demand for data scrapers and subsequently for AI algorithms, which are necessary in filtering said data. (Most of my github will be kept private for intellectual property reasons).",
     info2: 'These projects include but are not limited to: Scripts, Web scrapers, Cryptography, Machine Learning AI -particularly in Natural Language Processing & Digital Image Processing.',
-    url: '',
+    url: 'https://www.behance.net/francescofulci',
     repo: 'https://github.com/FPFdeveloper', //if no repo, the button will not show up
   },
 ];
@@ -68,7 +68,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/FPF_CONSULTANCY',
     },
     {
       id: nanoid(),
