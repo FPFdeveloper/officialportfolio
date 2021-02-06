@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'profile.gif',
   paragraphOne: "Young professional with an international background, graduated with a BA Honours degree in Business Management & a Minor in Computer Science at Oxford Brookes University. Well versed in business management and information technology.",
   paragraphTwo: "I'm an exceptionally meticulous and organized problem solver, and have pride in all my work no matter how big or small.",
   paragraphThree: 'Feel free to contact me to inquire about working together.',
