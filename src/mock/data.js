@@ -49,7 +49,7 @@ export const projectsData = [
     img: 'project3.jpg',
     title: 'Project Management Consulting & Software',
     info: "I have worked with bleeding edge technology as project manager and can help consult others through it. There is an ever-growing amount of demand for powerful & bespoke software, particularly with A.I. Most just don't know how accessible it can be.",
-    info2: "I've worked specifically with Data scraping and Machine Learning AI -Natural Language Processing & Digital Image Processing.',
+    info2: "I've worked specifically with Data scraping and Machine Learning AI -Natural Language Processing & Digital Image Processing.",
     url: 'https://www.behance.net/francescofulci',
     repo: 'https://github.com/FPFdeveloper', //if no repo, the button will not show up
   }, 
