@@ -40,19 +40,19 @@ export const projectsData = [
     img: 'project2.jpg',
     title: 'Marketing Campaigns & Brand Design',
     info: 'Some clients have come to me with a product or service to sell but with poor or no online market presence. That is when I started getting experience in marketing and eCommerce. I typically create the website and take care of the marketing, including A/B testing advertisements.',
-    info2: 'These projects include but are not limited to: Copywriting, Brand overhauls (both in message and design), Creative Ads, Facebook & Instagram Ad campaigns.',
+    info2: 'These projects include but are not limited to: Cold Outreach, Copywriting, Brand overhauls (both in message and design), Creative Ads, Facebook & Instagram Ad campaigns.',
     url: 'https://www.behance.net/francescofulci',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project3.jpg',
-    title: 'Automation software & A.I. implementations',
-    info: "There is a fair amount of demand for bespoke automation scripts, the issue is most don't know it's possible to automate many office tasks. Furthermore there is huge demand for data scrapers and subsequently for AI algorithms, which are necessary in filtering said data. (Most of my github will be kept private for intellectual property reasons).",
-    info2: 'These projects include but are not limited to: Scripts, Web scrapers, Cryptography, Machine Learning AI -particularly in Natural Language Processing & Digital Image Processing.',
+    title: 'Project Management Consulting & Software',
+    info: "I have worked with bleeding edge technology as project manager and can help consult others through it. There is an ever-growing amount of demand for powerful & bespoke software, particularly with A.I. Most just don't know how accessible it can be.",
+    info2: "I've worked specifically with Data scraping and Machine Learning AI -Natural Language Processing & Digital Image Processing.',
     url: 'https://www.behance.net/francescofulci',
     repo: 'https://github.com/FPFdeveloper', //if no repo, the button will not show up
-  },
+  }, 
 ];
 
 // CONTACT DATA
