@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.png',
   paragraphOne: "Manager with an international background, graduated with a BA Honours degree in Business Management & a Minor in Computer Science at Oxford Brookes University. Well versed in business management and information technology.",
-  paragraphTwo: "I'm an exceptionally innovative and meticulous problem solver, and have pride in all my work no matter how big or small.",
-  paragraphThree: 'Feel free to contact me to inquire about working together.',
+  paragraphTwo: "I approach every new problem with a first principles mindset and have pride in all my work no matter how big or small.",
+  paragraphThree: 'Feel free to contact me for any additional enquiries.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.jpg',
     title: 'Business & eCommerce Websites',
-    info: "My freelancing has started with creating websites, countless of clients have first come to me for a website as online presence has become a must in today's world. I have worked on numerous smaller websites using pure css and html and a few bigger ones on Wordpress and Shopify.",
+    info: "My freelancing has started with creating websites, many clients have first come to me for a website as online presence has become a must in today's world.",
     info2: 'These projects include but are not limited to: HTML/CSS editing, Web Design, Business Landing pages, Blogs, Wordpress & Shopify CMS.',
     url: 'https://www.behance.net/francescofulci',
     repo: '', // if no repo, the button will not show up
@@ -39,8 +39,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Marketing Campaigns & Brand Design',
-    info: 'Some clients have come to me with a product or service to sell but with poor or no online market presence. That is when I started getting experience in marketing and eCommerce. I typically create the website and take care of the marketing, including A/B testing advertisements.',
-    info2: 'These projects include but are not limited to: Cold Outreach, Copywriting, Brand overhauls (both in message and design), Creative Ads, Facebook & Instagram Ad campaigns.',
+    info: 'Some clients have come to me with a product or service to sell but with poor online market presence and no marketing infrastructure. That is when I started getting experience in marketing and eCommerce. I not only create the website but also take care of the marketing, from A/B testing advertisements to cold outreach campaigns.',
+    info2: 'These projects include but are not limited to: Cold Outreach, Email Marketing, Copywriting, Brand overhauls (both in message and design), Creative Ads, Facebook & Instagram Ad campaigns.',
     url: 'https://www.behance.net/francescofulci',
     repo: '', // if no repo, the button will not show up
   },
@@ -48,8 +48,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project3.jpg',
     title: 'Project Management Consulting & Software',
-    info: "I have worked with bleeding edge technology as project manager and can help consult others through it. There is an ever-growing amount of demand for powerful & bespoke software, particularly with A.I. Most just don't know how accessible it can be.",
-    info2: "I've worked specifically with Data scraping and Machine Learning AI -Natural Language Processing & Digital Image Processing.",
+    info: "I have worked with bleeding edge technology as project coordinator and can help consult others through it. There is an ever-growing amount of demand for powerful & bespoke software, particularly with A.I. Most just don't know how accessible it can be.",
+    info2: "I've worked specifically with Data Science and Machine Learning Artificial Intelligence (such as Natural Language Processing & Digital Image Processing).",
     url: 'https://www.behance.net/francescofulci',
     repo: 'https://github.com/FPFdeveloper', //if no repo, the button will not show up
   }, 
